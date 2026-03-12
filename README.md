@@ -4,6 +4,8 @@
 💡 Passionate about building scalable web applications and AI-driven automation tools.  
 🌍 Ex-Cognizant UK | Delivered digital services for Public Sector, BFSI, and E-commerce clients.  
 
+You're welcome to FOLLOW or STARS⭐️ my open repo.
+
 ### 🔥 Featured Projects
 - 🧠 [Voice-to-Agile-User-Story](https://github.com/Srameshgitnow/voice-to-agile-user-story)
 - 🤖 [LangChain-Intelligent-Agent](https://github.com/Srameshgitnow/langchain-intelligent-agent)
