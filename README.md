@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Ramesh Swamynathan
-🚀 Full Stack Engineer | 18+ Years Experience | Node.js, React, Angualr, Javascript, Typescript, Java Spring boot, Python, LangChain, LLM Integration  You're welcome to FOLLOW or STARS⭐️ my open repo.
+🚀 Full Stack Engineer | 18+ Years Experience | Node.js, React, Angualr, Javascript, Typescript, Java Spring boot, Python, LangChain, LLM Integration.
 
 💡 Passionate about building scalable web applications and AI-driven automation tools.  
 🌍 Ex-Cognizant UK | Delivered digital services for Public Sector, BFSI, and E-commerce clients.  
