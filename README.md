@@ -8,8 +8,10 @@
 You're welcome to FOLLOW or STARS⭐️ my open repo.
 
 ### 🔥 Featured Projects
-- 🧠 [Voice-to-Agile-User-Story](https://github.com/Srameshgitnow/voice-to-agile-user-story)
-- 🤖 [LangChain-Intelligent-Agent](https://github.com/Srameshgitnow/langchain-intelligent-agent)
+- 🧠 [AI-DocumentIntelligence](https://github.com/Srameshgitnow/AI-DocumentIntelligence)
+- 🤖 [agentic-code-reviewer](https://github.com/Srameshgitnow/agentic-code-reviewer)
+- 🤖 [policy-qa-system](https://github.com/Srameshgitnow/policy-qa-system)
+- 🤖 [csv-analytics-dashboard](https://github.com/Srameshgitnow/csv-analytics-dashboard)
 - 📸 [Receipt-AI-Extractor](https://github.com/Srameshgitnow/receipt-ai-extractor-backend)
 - 💬 [ChatWithYourData](https://github.com/Srameshgitnow/ChatWithYourData)
 - 🔍 [NodeJs-Elasticsearch-Products](https://github.com/Srameshgitnow/NodeJs-Elasticsearch-products)
