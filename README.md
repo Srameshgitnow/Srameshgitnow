@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramesh Swamynathan
 
-🚀 Full Stack AI Engineer | 18+ Years Experience | Node.js, React, Angular, JavaScript, TypeScript, Java Spring Boot, Python, LangChain, and LLM Integration.
+🚀 Full Stack AI Engineer | 18+ Years Experience | Node.js, React, Angular, Next.js, JavaScript, TypeScript, Python, LangChain, and LLM Integration.
 
 💡 Passionate about building scalable web applications and AI-driven automation tools.  
 🌍 Formerly at Cognizant UK | Delivered digital services for Public Sector, BFSI, and E-commerce clients.
